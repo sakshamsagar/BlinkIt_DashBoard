@@ -54,3 +54,5 @@ Performance insights segmented by outlet characteristics like Tier, Size, and Ty
 Presented and published with interactive filtering experience
 
 🖼️ Dashboard Preview
+
+https://github.com/sakshamsagar/BlinkIt_DashBoard/blob/main/ScreenShot%20BlinkIT%20Project.png
